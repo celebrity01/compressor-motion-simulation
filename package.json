@@ -1,0 +1,21 @@
+{
+  "name": "compressor-motion-simulation",
+  "version": "1.0.0",
+  "description": "Interactive Multiphase Motion & Audio Simulation of Integrated Rotary Screw Compressor with Refrigeration Air Dryer",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [
+    "screw-compressor",
+    "refrigeration-dryer",
+    "digital-twin",
+    "scada",
+    "fluid-dynamics",
+    "simulation",
+    "engineering",
+    "web-audio"
+  ],
+  "author": "SANI ZAHARADEEN",
+  "license": "MIT"
+}
